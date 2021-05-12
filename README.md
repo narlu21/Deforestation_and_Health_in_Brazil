@@ -1,1 +1,1 @@
-# Deforestation_and_Health_in_Brazil
+This repository contains the jupyter notebooks for the Deforestation and Health in Brazil project, submitted as a final project for ACE 592-SAE, Spring 2021.
