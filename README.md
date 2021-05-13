@@ -6,7 +6,7 @@ This repository contains two jupyter notebooks for the Deforestation and Health 
 
 The long-term objective of this study is to investigate the effects of deforestation on health outcomes in Brazil. As an initial analysis, this class project provides several descriptive statstics and visulizations of the data. 
 
-**All data sets constructed in this project can be directly download from [Box](https://uofi.box.com/v/deforestation)**
+**All data are publically available. Primary datasets constructed in this project can be directly download from [Box](https://uofi.box.com/v/deforestation)**
 
 **Data source:** 
 - yearly deforestation data from [TerraBrasilis](http://terrabrasilis.dpi.inpe.br/), a web platform built by the National Institute of Space Research (INPE). 
