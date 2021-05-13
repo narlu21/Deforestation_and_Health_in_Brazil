@@ -4,7 +4,7 @@
 
 This repository contains two jupyter notebooks and a summary parper for the **Deforestation and Health in Brazil** project, submitted as a final project for ACE 592-SAE, Spring 2021. 
 
-The long-term objective of this study is to investigate the effects of deforestation on health outcomes in Brazil. As an initial analysis, this class project provides several descriptive statstics and visulizations of the data. 
+The long-term objective of this study is to investigate the effects of deforestation on health outcomes in Brazil. As an initial analysis, firstly, this class project provides several descriptive statstics and visulizations of the deforestation and health data, respectively. Secondly, it looks at simple correlations between selected disease cases and deforestation. 
 
 **All data are publically available. Primary datasets constructed in this project can be directly download from [Box](https://uofi.box.com/v/deforestation)**
 
