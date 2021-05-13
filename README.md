@@ -12,3 +12,10 @@ There are two primary datasets and other shapfiles in the "Data" folder. There a
 - health data from [Datasus](http://datasus1.saude.gov.br/), the information data bank from the Sistema Unico de Saude, Brazil's integrated health reporting system.  
 
 **Tools**: Python 3.0
+**Collaborators**:
+1. Victor Funes
+2. Eric larson
+3. Na Zhang
+4. Farzana Shirin
+5. Chenxi Tang
+6. Paavani Sachdeva
