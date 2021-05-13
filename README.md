@@ -11,6 +11,8 @@ There are two primary datasets and other shapfiles in the "Data" folder. There a
 - yearly deforestation data from [TerraBrasilis](http://terrabrasilis.dpi.inpe.br/), a web platform built by the National Institute of Space Research (INPE). 
 - health data from [Datasus](http://datasus1.saude.gov.br/), the information data bank from the Sistema Unico de Saude, Brazil's integrated health reporting system.  
 
+**[Download Data](http://datasus1.saude.gov.br/)** 
+
 **Tools**: Python 3.0
 
 **Collaborators**:
