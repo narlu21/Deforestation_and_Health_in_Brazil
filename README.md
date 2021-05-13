@@ -22,4 +22,5 @@ There are two primary datasets and other shapfiles in the "Data" folder. There a
 6. Paavani Sachdeva
 
 **References:**
+
 Assis, L. F. F. G.; Ferreira, K. R.; Vinhas, L.; Maurano, L.; Almeida, C.; Carvalho, A.; Rodrigues, J.; Maciel, A.; Camargo, C. TerraBrasilis: A Spatial Data Analytics Infrastructure for Large-Scale Thematic Mapping. ISPRS International Journal of Geo-Information. 8, 513, 2019. DOI: 10.3390/ijgi8110513
